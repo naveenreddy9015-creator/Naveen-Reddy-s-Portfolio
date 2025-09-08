@@ -8,7 +8,7 @@ Hi there! 👋 I'm Naveen Teja Reddy Majji, an explorer of data, code, and every
 
 🔎 Currently, I’m diving deeper into the worlds of Business Analytics, Data Science, and Software Development - unraveling insights, building smart systems, and crafting stories with data.
 
-💡 I believe in the magic of code—the way it transforms raw data into meaningful solutions, and ideas into impact. My mission? To keep learning, keep building, and keep making a difference, one project at a time.
+💡 I believe in the magic of code - the way it transforms raw data into meaningful solutions, and ideas into impact. My mission? To keep learning, keep building, and keep making a difference, one project at a time.
 
 🌟 Feel free to browse my repositories, leave a ⭐ if something sparks your interest, or reach out—whether it’s for collaboration, brainstorming, or just a good old tech chat!
 

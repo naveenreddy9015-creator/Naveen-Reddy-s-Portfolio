@@ -1,4 +1,4 @@
-# Naveen-Reddy's-Portfolio
+# Naveen Reddy's Portfolio
 
 👋 Welcome to My Digital Universe! 🌌
 

@@ -4,9 +4,9 @@
 
 Hi there! 👋 I'm Naveen Teja Reddy Majji, an explorer of data, code, and everything in between. 🚀
 
-💻 Here in my GitHub galaxy, you’ll discover my coding quests—ranging from data analytics dashboards and visualization artistry to machine learning experiments and cloud-powered projects. Each repo is a star in my constellation of curiosity. ✨
+💻 Here in my GitHub galaxy, you’ll discover my coding quests - ranging from data analytics dashboards and visualization artistry to machine learning experiments and cloud-powered projects. Each repo is a star in my constellation of curiosity. ✨
 
-🔎 Currently, I’m diving deeper into the worlds of Business Analytics, Data Science, and Software Development—unraveling insights, building smart systems, and crafting stories with data.
+🔎 Currently, I’m diving deeper into the worlds of Business Analytics, Data Science, and Software Development - unraveling insights, building smart systems, and crafting stories with data.
 
 💡 I believe in the magic of code—the way it transforms raw data into meaningful solutions, and ideas into impact. My mission? To keep learning, keep building, and keep making a difference, one project at a time.
 

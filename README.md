@@ -23,4 +23,5 @@ while coding:
 Keep coding, keep exploring, and never stop reaching for the stars! 🌠
 
 ✨ Thanks for stopping by my GitHub galaxy. Let’s connect, collaborate, and code the future together! 🌠
+
 – Naveen Teja Reddy Majji
